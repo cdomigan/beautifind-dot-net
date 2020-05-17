@@ -25,7 +25,7 @@ function Home() {
           }}
           alignSelf="center"
         >
-          beautifind
+          beautifind NEW
         </Heading>
         <Box
           width="large"
