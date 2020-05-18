@@ -21,7 +21,7 @@ steps:
 - task: Npm@1
   inputs:
     command: 'install'
-    workingDir: 'beautyfind-web-client'
+    workingDir: 'beautifind-web-client'
 
 - script: next export
   displayName: Build static HTML export of NextJS App
