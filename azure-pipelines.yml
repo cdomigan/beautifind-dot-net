@@ -25,6 +25,7 @@ steps:
 
 - script: next export
   displayName: Build static HTML export of NextJS App
+  workingDirectory: 'beautifind-web-client'
 
 - task: CopyFiles@2
   inputs:
