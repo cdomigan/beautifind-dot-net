@@ -25,7 +25,7 @@ function Home() {
           }}
           alignSelf="center"
         >
-          beautifind
+          beautyfind
         </Heading>
         <Box
           width="large"
