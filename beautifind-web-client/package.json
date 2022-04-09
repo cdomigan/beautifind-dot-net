@@ -14,7 +14,7 @@
     "firebase": "^7.14.1",
     "grommet": "^2.13.0",
     "grommet-icons": "^4.4.0",
-    "moment": "^2.25.3",
+    "moment": "^2.29.2",
     "next": "^9.3.3",
     "polished": "^3.5.2",
     "react": "^16.13.0",
